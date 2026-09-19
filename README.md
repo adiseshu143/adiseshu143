@@ -1,249 +1,43 @@
-# <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Adiseshu+Hanumanthu;Full+Stack+Developer;React+Developer;AI+Enthusiast;Open+Source+Learner" alt="Typing SVG" /></div>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is ADISESHU HANUMANTHU
+============================================================================================================================================
 
----
+FULL-STACK DEVELOPER
+--------------------
 
-<div align="center">
+Full-Stack Developer focused on MERN, React, and scalable web applications. I build practical products, explore AI-powered solutions, and love solving problems through code. 4× Hackathon Winner | Open-Source & Tech Enthusiast | DSA Learner.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=adiseshu143&color=58A6FF&style=flat-square&label=Profile+Views)](https://github.com/adiseshu143)
-[![GitHub Followers](https://img.shields.io/github/followers/adiseshu143?style=flat-square&color=00E5FF&labelColor=0D1117)](https://github.com/adiseshu143)
-[![GitHub Stars](https://img.shields.io/github/stars/adiseshu143?style=flat-square&color=58A6FF&labelColor=0D1117)](https://github.com/adiseshu143)
+* 🌍  I'm based in Bhimavaram, India
+* 🖥️  See my portfolio at [PORTFOLIO](http://adiseshu-portfolio.vercel.app)
+* ✉️  You can contact me at [hanumanthuadiseshu@gmail.com](mailto:hanumanthuadiseshu@gmail.com)
+* 🧠  I'm currently learning Machine Learning(ML)
+* 👥  I'm looking to collaborate on Full-Stack & MERN Projects, Open-Source Projects
+* 💬  Ask me about I turn ideas into code, bugs into lessons, and projects into experiences.
 
-</div>
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" alt="Framer" title="Framer" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
+</p>
 
----
+### Socials
 
-<div align="center">
+<p align="left"> <a href="https://www.github.com/adiseshu143" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/adiseshu143" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="https://www.x.com/Adiseshu1817" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.threads.net/@smart_boy_adi_seshu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a> <a href="http://www.medium.com/hanumanthuadiseshu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a> <a href="https://www.dev.to/adiseshu143" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV" title="DEV" /> </picture> </a> <a href="https://www.linkedin.com/in/adiseshu-hanumanthu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<a href="https://www.github.com/adiseshu143" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/adiseshu143?logo=github&style=for-the-badge&color=6366f1&labelColor=171717" /></a>
+### Badges
 
-## 🚀 Full Stack Developer | React Enthusiast | AI Explorer
+<b>My GitHub Stats</b>
 
-**Computer Science & Business Systems Student**  
-*Vishnu Institute of Technology, Bhimavaram*
+<a href="http://www.github.com/adiseshu143"><img src="https://github-readme-stats.vercel.app/api?username=adiseshu143&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=444e59&icon_color=6366f1&bg_color=171717&hide_border=true&show_icons=true" alt="adiseshu143's GitHub stats" /></a>
 
-📍 **Location:** Bhimavaram, India  
-📧 **Email:** [adiseshu143@gmail.com](mailto:adiseshu143@gmail.com)  
-🌐 **Portfolio:** [adiseshu143.dev](https://adiseshu143.dev)  
-💼 **LinkedIn:** [@adiseshu143](https://linkedin.com/in/adiseshu143)
+<a href="http://www.github.com/adiseshu143"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adiseshu143&stroke=444e59&background=171717&ring=22c55e&fire=22c55e&currStreakNum=444e59&currStreakLabel=22c55e&sideNums=444e59&sideLabels=444e59&dates=444e59&hide_border=true" /></a>
 
-</div>
+<b>Top Repositories</b>
 
----
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
-## 🎯 About Me
+### Support Me
 
-<div align="center">
+<ul style="list-style-type: none; margin: 0;">
 
-| 🎓 Education | 💻 Development | 🚀 Current | 🌱 Learning |
-|:---:|:---:|:---:|:---:|
-| CS & Business Systems | Full Stack Web | Building Marketplace Apps | Advanced React Patterns |
-| Vishnu Institute of Tech | React & Node.js | Scalable Backends | System Design |
-| GPA: 3.8/4.0 | AI/ML Projects | Cloud Integration | DevOps Fundamentals |
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/adiseshu143"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
-</div>
-
-<div align="center">
-
-### ⚡ Fun Fact
-I build scalable web applications by day and explore AI/ML concepts by night! 🤖✨
-
-### 🎯 Career Goal
-**Software Engineer** | **Full Stack Developer** | **AI Engineer** at top-tier tech companies
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 🎨 Frontend Development
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
-[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
-[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org)
-[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
-
-### 🔧 Backend Development
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
-[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com)
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
-[![REST API](https://img.shields.io/badge/REST%20API-58A6FF?style=flat-square&logo=api&logoColor=00E5FF&labelColor=0D1117)](https://restfulapi.net)
-
-### 🐍 Programming Languages
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
-[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
-[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
-
-### 🔨 Tools & Platforms
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org)
-[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com)
-[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com)
-
-</div>
-
----
-
-## 📂 Featured Projects
-
-<div align="center">
-
-### 🏪 TradeHub - Full Stack Marketplace
-**React • Node.js • Express • MongoDB • Firebase**
-
-A comprehensive e-commerce marketplace platform with real-time notifications, payment integration, and seller dashboard.
-
-[![GitHub](https://img.shields.io/badge/GitHub-58A6FF?style=flat-square&logo=github&logoColor=white)](https://github.com/adiseshu143/tradehub)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00E5FF?style=flat-square&logo=rocket&logoColor=white)](https://tradehub-demo.vercel.app)
-
----
-
-### 🩸 BloodConnect - Blood Donation Platform
-**React • Next.js • TypeScript • Firebase • Tailwind CSS**
-
-A life-saving platform connecting blood donors with recipients in real-time with location-based matching.
-
-[![GitHub](https://img.shields.io/badge/GitHub-58A6FF?style=flat-square&logo=github&logoColor=white)](https://github.com/adiseshu143/bloodconnect)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00E5FF?style=flat-square&logo=rocket&logoColor=white)](https://bloodconnect-app.vercel.app)
-
----
-
-### 🎓 CSBS Department Website
-**React • Next.js • Tailwind CSS • Firebase**
-
-Official college department website showcasing programs, faculty, and student achievements.
-
-[![GitHub](https://img.shields.io/badge/GitHub-58A6FF?style=flat-square&logo=github&logoColor=white)](https://github.com/adiseshu143/csbs-website)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00E5FF?style=flat-square&logo=rocket&logoColor=white)](https://csbs-vit.vercel.app)
-
----
-
-### 🤖 AI & ML Projects
-**Python • TensorFlow • Scikit-learn • Jupyter**
-
-Collection of machine learning models including NLP, Computer Vision, and Recommendation Systems.
-
-[![GitHub](https://img.shields.io/badge/GitHub-58A6FF?style=flat-square&logo=github&logoColor=white)](https://github.com/adiseshu143/ai-ml-projects)
-
----
-
-### 💼 Portfolio Website
-**Next.js • React • TypeScript • Tailwind CSS • Framer Motion**
-
-Personal portfolio showcasing projects, skills, and professional journey.
-
-[![GitHub](https://img.shields.io/badge/GitHub-58A6FF?style=flat-square&logo=github&logoColor=white)](https://github.com/adiseshu143/portfolio)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00E5FF?style=flat-square&logo=rocket&logoColor=white)](https://adiseshu143.dev)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adiseshu143&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC&icon_color=00E5FF&border_color=58A6FF&border_radius=10)](https://github.com/adiseshu143)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=adiseshu143&theme=tokyonight&background=0D1117&border=58A6FF&currStreakNum=00E5FF&sideNums=58A6FF&currStreakLabel=58A6FF&fire=FF00FF&ring=00E5FF)](https://github.com/adiseshu143)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adiseshu143&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC&border_color=58A6FF&border_radius=10)](https://github.com/adiseshu143)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-| 📚 Learning | 🚀 Exploring | 🔍 Mastering |
-|:---:|:---:|:---:|
-| Next.js Advanced Patterns | Docker & Kubernetes | System Design |
-| Python Data Science | AWS Cloud Services | Microservices Architecture |
-| TypeScript Deep Dive | GraphQL API Design | Performance Optimization |
-| AI/ML Fundamentals | Open Source Contribution | DevOps Practices |
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=adiseshu143&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true&title_color=58A6FF&text_color=F0F6FC)
-
-</div>
-
-<div align="center">
-
-⭐ **50+ GitHub Stars** across multiple projects
-🔗 **100+ Followers** and growing
-📦 **20+ Repositories** with quality code
-🎯 **Full Stack Portfolio** with 5+ production projects
-💚 **Open Source Contributor**
-</div>
-
----
-
-## 🎮 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-58A6FF?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/adiseshu143)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00E5FF?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/adiseshu143)
-[![CodeChef](https://img.shields.io/badge/CodeChef-58A6FF?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/adiseshu143)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adiseshu143)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00E5FF?style=flat-square&logo=globe&logoColor=white)](https://adiseshu143.dev)
-[![Resume](https://img.shields.io/badge/Resume-58A6FF?style=flat-square&logo=adobe&logoColor=white)](https://adiseshu143.dev/resume.pdf)
-
-</div>
-
----
-
-## 💬 Let's Connect
-
-<div align="center">
-
-*"Code is poetry written for machines, but it should be readable by humans."*
-
-*— Clean Code Philosophy*
-
-**Let's build something amazing together! 🚀**
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adiseshu143@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adiseshu143)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adiseshu143)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=globe&logoColor=white)](https://adiseshu143.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adiseshu143)
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ Thanks for visiting my profile! ✨
-
-**Keep coding, keep learning, keep growing! 🌟**
-
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=24&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=600&lines=Happy+Coding+%F0%9F%9A%80;Build+amazing+things+%F0%9F%92%AA;Together+we+can+do+more+%F0%9F%92%BB" alt="Footer Typing" />
-
-</div>
-
----
-
-<div align="center">
-
-**Last Updated:** July 2026 | *Continuously Learning & Growing* 📈
-
-</div>
+</ul>
